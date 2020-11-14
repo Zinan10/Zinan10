@@ -1,4 +1,4 @@
-# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, World! 
 My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software developer currently training at @spartaglobal
 
 <img src="https://www.coredna.com/web_images/What-is-Git.gif" width = "300px">
