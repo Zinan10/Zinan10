@@ -3,7 +3,7 @@ My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software develope
 
 <!-- Actual text -->
 
-![alt text](https://www.coredna.com/web_images/What-is-Git.gif)
+![alt text](https://www.coredna.com/web_images/What-is-Git.gif width = "20px")
 <!--
 **Zinan10/Zinan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
