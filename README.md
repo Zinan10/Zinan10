@@ -5,7 +5,7 @@ My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software develope
 
 # Passions 🕶
 - Devout Christian 😇 🙏🏽
-- Massive Football Fan (Arsenal & Jose Mourinho ❤️)
+- Massive Football Fan ( Arsenal & Jose Mourinho ❤️ )
 - Avid Chess player ♟
 - Geopolitical connoisseur 🤯
 - Software Development 🤓
