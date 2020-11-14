@@ -2,6 +2,13 @@
 My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software developer currently training at @spartaglobal
 
 <img src="https://www.coredna.com/web_images/What-is-Git.gif" width = "300px">
+
+# Passions 🕶
+- Devout Christian 😇 🙏🏽
+- Massive Football Fan (Arsenal & Jose Mourinho ❤️)
+- Avid Chess player ♟
+- Geopolitical connoisseur 🤯
+- Software Development 🤓
 <!--
 **Zinan10/Zinan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
