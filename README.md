@@ -1,7 +1,8 @@
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software developer currently training at @spartaglobal
 
-#Technical Skills
+# Technical Skills
+
 ![](https://img.shields.io/badge/<JavaT>-<IntelliJ>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <!--
 **Zinan10/Zinan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
