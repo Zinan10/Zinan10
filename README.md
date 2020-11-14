@@ -2,8 +2,7 @@
 My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software developer currently training at @spartaglobal
 
 <!-- Actual text -->
-
-![alt text](<img src = "https://www.coredna.com/web_images/What-is-Git.gif" width = "20px")
+<img src = "https://www.coredna.com/web_images/What-is-Git.gif" width = "20px"
 <!--
 **Zinan10/Zinan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
