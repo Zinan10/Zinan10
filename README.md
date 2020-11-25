@@ -1,11 +1,11 @@
 # Hello, World! 
 My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software developer currently training at @spartaglobal
 
-# Work Links Below 👇
+# Where To Reach Me 👇
 
 [![GitHub](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zinan10/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-buraimo-7037b612b/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanueloburaimo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:emmanueloburaimo@gmail.com)
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:EBuraimo@spartaglobal.com)
 [![SpartaGlobal](https://img.shields.io/badge/Sparta%20Global-%23CC6699.svg?&style=for-the-badge&logo=spartaglobal&logoColor=white)](https://www.spartaglobal.com/)
 
@@ -19,6 +19,16 @@ My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software develope
 - Software Development 🤓
 <!--
 **Zinan10/Zinan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Technical Skills
+![git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![intellij](https://img.shields.io/badge/intelliJ%20IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Azure](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=Azure&logoColor=white)
+![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![maven](https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)
+![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 Here are some ideas to get you started:
 
