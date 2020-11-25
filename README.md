@@ -29,7 +29,6 @@ My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software develope
 ![maven](https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)
 ![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![azure](https://img.shields.io/badge/azuredataexplorer.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
 
