@@ -17,10 +17,11 @@ My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software develope
 - Avid Chess player ♟
 - Geopolitical connoisseur 🤯
 - Software Development 🤓
-<!--
-**Zinan10/Zinan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Technical Skills
+
+
+### Tools Used
+
 ![git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![intellij](https://img.shields.io/badge/intelliJ%20IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Azure](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
@@ -29,6 +30,11 @@ My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software develope
 ![maven](https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)
 ![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+
+
+<!--
+**Zinan10/Zinan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
