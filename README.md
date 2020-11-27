@@ -1,4 +1,4 @@
-# Hello, World! 
+# Hello World! 
 My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software developer currently training at @spartaglobal
 
 # Where To Reach Me 👇
