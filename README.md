@@ -9,7 +9,7 @@ My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software develope
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:EBuraimo@spartaglobal.com)
 [![SpartaGlobal](https://img.shields.io/badge/Sparta%20Global-%23CC6699.svg?&style=for-the-badge&logo=spartaglobal&logoColor=white)](https://www.spartaglobal.com/)
 
-<img src="https://www.coredna.com/web_images/What-is-Git.gif" width = "300px">
+<img src="https://www.coredna.com/web_images/What-is-Git.gif" width = "450px">
 
 # Passions & Hobbies 🕶
 - Devout Christian 😇 🙏🏽
@@ -18,6 +18,9 @@ My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software develope
 - Geopolitical connoisseur 🤯
 - Software Development 🤓
 
+### Github Stats
+
+![Em's github stats](https://github-readme-stats.vercel.app/api?username=Zinan10&count_private=true)
 
 
 ### Tools Used
