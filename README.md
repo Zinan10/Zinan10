@@ -20,8 +20,9 @@ My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software develope
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zinan10&theme=algolia&langs_count=8)](https://github.com/Zinan10/github-readme-stats)
 ![Em's's github stats](https://github-readme-stats.vercel.app/api?username=Zinan10&hide=prs,stars&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zinan10&theme=algolia&langs_count=8)](https://github.com/Zinan10/github-readme-stats)
+
 
 
 
