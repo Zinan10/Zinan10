@@ -1,13 +1,6 @@
 # Hello World! 
-My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software developer currently training at @spartaglobal
+My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software developer 
 
-# Where To Reach Me 👇
-
-[![GitHub](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zinan10/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-buraimo-7037b612b/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:emmanueloburaimo@gmail.com)
-[![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:EBuraimo@spartaglobal.com)
-[![SpartaGlobal](https://img.shields.io/badge/Sparta%20Global-%23CC6699.svg?&style=for-the-badge&logo=spartaglobal&logoColor=white)](https://www.spartaglobal.com/)
 
 <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width = "450px">
 
