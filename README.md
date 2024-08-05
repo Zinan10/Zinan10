@@ -1,5 +1,5 @@
 # Hello World! 
-My name is Emmanuel Obafemi Buraimo and I am a passionate Java Software developer 
+My name is Emmanuel Obafemi Buraimo and I am a passionate Java/Kotlin Software developer 
 
 
 <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width = "450px">
